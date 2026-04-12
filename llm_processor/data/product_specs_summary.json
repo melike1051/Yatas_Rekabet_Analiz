@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-04-11T12:50:29.340571+00:00",
+  "include_existing": true,
+  "processed_count": 20,
+  "items": [
+    {
+      "product_id": 31,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22MTR3156MUNC",
+      "product_name": "Mitra Mini Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 30,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22MTR3150MUNC",
+      "product_name": "Mitra Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 29,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYY3155SCGA",
+      "product_name": "Alya Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 28,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYY3156SCGA",
+      "product_name": "Alya Mini Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 27,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYS3155ZIZI",
+      "product_name": "Aysa Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 26,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYS3150ZIZI",
+      "product_name": "Aysa Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 25,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22VSK3151TEBO",
+      "product_name": "Vista Alternatif Sabit Masa Krem",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 24,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22VSK3155TEBO",
+      "product_name": "Vista Açılır Masa Krem",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 23,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYY3150SCTE",
+      "product_name": "Alya Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 22,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22MVE3155EFBD",
+      "product_name": "Marven Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 21,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22CNS3150FCFC",
+      "product_name": "Cansas Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 20,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LAT3149LBCO",
+      "product_name": "Lavita Mini Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 19,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LAT3150LBCO",
+      "product_name": "Lavita Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 18,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LAT3155LBCO",
+      "product_name": "Lavita Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 17,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BOR3155DXDX",
+      "product_name": "Borneo Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 16,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BOR3150DXDX",
+      "product_name": "Borneo Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 15,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AEK3150PNPN",
+      "product_name": "Alexa Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 14,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BRL3157ODOD",
+      "product_name": "Briella Alternatif Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 13,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BRL3155BSOD",
+      "product_name": "Briella Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.550"
+    },
+    {
+      "product_id": 12,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BRL3150ODOP",
+      "product_name": "Briella Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    }
+  ]
+}

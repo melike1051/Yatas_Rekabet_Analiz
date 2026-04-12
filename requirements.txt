@@ -1,0 +1,12 @@
+playwright==1.52.0
+pandas==2.2.3
+sqlalchemy==2.0.40
+psycopg2-binary==2.9.9
+streamlit==1.44.1
+plotly==6.0.1
+apache-airflow-client==2.9.0
+python-dotenv==1.0.1
+pytest==8.3.5
+pydantic==2.11.3
+openpyxl==3.1.5
+reportlab==4.2.5

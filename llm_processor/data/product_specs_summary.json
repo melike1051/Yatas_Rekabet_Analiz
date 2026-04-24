@@ -1,125 +1,1325 @@
 {
-  "generated_at": "2026-04-11T12:50:29.340571+00:00",
+  "generated_at": "2026-04-14T11:01:41.987693+00:00",
   "include_existing": true,
-  "processed_count": 20,
+  "processed_count": 181,
   "items": [
     {
-      "product_id": 31,
+      "product_id": 466,
       "competitor_name": "istikbal",
-      "competitor_sku": "22MTR3156MUNC",
-      "product_name": "Mitra Mini Açılır Masa",
+      "competitor_sku": "23FNA82350220001M",
+      "product_name": "Fiona 8235 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 465,
+      "competitor_name": "istikbal",
+      "competitor_sku": "23TRV82370220003M",
+      "product_name": "Truva 8237 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 464,
+      "competitor_name": "istikbal",
+      "competitor_sku": "23BRL82450220001M",
+      "product_name": "Briella 8245 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 463,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22FNA2551ZXGE",
+      "product_name": "Fiona Alternatif Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 462,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22TRV2550DWKM",
+      "product_name": "Truva Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 461,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LIU2550AHMU",
+      "product_name": "Linus Konsol",
       "parsed_by": "heuristic",
       "confidence_score": "0.450"
     },
     {
-      "product_id": 30,
+      "product_id": 460,
       "competitor_name": "istikbal",
-      "competitor_sku": "22MTR3150MUNC",
-      "product_name": "Mitra Sabit Masa",
+      "competitor_sku": "22LIU2425MUMU",
+      "product_name": "Linus Konsol Aynası",
       "parsed_by": "heuristic",
       "confidence_score": "0.250"
     },
     {
-      "product_id": 29,
+      "product_id": 459,
       "competitor_name": "istikbal",
-      "competitor_sku": "22AYY3155SCGA",
-      "product_name": "Alya Açılır Masa",
+      "competitor_sku": "23LIU82470220004M",
+      "product_name": "Linus 8247 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 458,
+      "competitor_name": "istikbal",
+      "competitor_sku": "58LIU8015AHMU",
+      "product_name": "Linus Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 8,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LIU3155AHMU",
+      "product_name": "Linus Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 456,
+      "competitor_name": "istikbal",
+      "competitor_sku": "58LGT8015ZXPD",
+      "product_name": "Legato Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 455,
+      "competitor_name": "istikbal",
+      "competitor_sku": "23LGT82510220001",
+      "product_name": "Legato 8251 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 454,
+      "competitor_name": "istikbal",
+      "competitor_sku": "23LGT82500220001",
+      "product_name": "Legato 8250 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 7,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LGT3156ZXPD",
+      "product_name": "Legato Mini Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 6,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LGT3155ZXPD",
+      "product_name": "Legato Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 451,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LGT2425PDPD",
+      "product_name": "Legato Konsol Aynası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 450,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22LGT2550ZXPD",
+      "product_name": "Legato Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 449,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22SGE2425FKFK",
+      "product_name": "Shine Konsol Aynası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 5,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22SGE3155FKFK",
+      "product_name": "Shine Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 447,
+      "competitor_name": "istikbal",
+      "competitor_sku": "23SGE82530220001M",
+      "product_name": "Shine 8253 2'li Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 4,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22SGE3156FKFK",
+      "product_name": "Shine Mini Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 445,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22SGE2550FKFK",
+      "product_name": "Shine Konsol",
       "parsed_by": "heuristic",
       "confidence_score": "0.450"
     },
     {
-      "product_id": 28,
+      "product_id": 444,
       "competitor_name": "istikbal",
-      "competitor_sku": "22AYY3156SCGA",
-      "product_name": "Alya Mini Açılır Masa",
+      "competitor_sku": "58SGE8015FKHO",
+      "product_name": "Shine Yemek Odası Takımı",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 27,
+      "product_id": 443,
       "competitor_name": "istikbal",
-      "competitor_sku": "22AYS3155ZIZI",
-      "product_name": "Aysa Açılır Masa",
+      "competitor_sku": "23DST82580220001M",
+      "product_name": "Destina 8258 2'li Sandalye",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 26,
+      "product_id": 442,
       "competitor_name": "istikbal",
-      "competitor_sku": "22AYS3150ZIZI",
-      "product_name": "Aysa Sabit Masa",
+      "competitor_sku": "23DST82570220001M",
+      "product_name": "Destina 8257 2'li Sandalye",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 25,
+      "product_id": 3,
       "competitor_name": "istikbal",
-      "competitor_sku": "22VSK3151TEBO",
-      "product_name": "Vista Alternatif Sabit Masa Krem",
-      "parsed_by": "heuristic",
-      "confidence_score": "0.350"
-    },
-    {
-      "product_id": 24,
-      "competitor_name": "istikbal",
-      "competitor_sku": "22VSK3155TEBO",
-      "product_name": "Vista Açılır Masa Krem",
-      "parsed_by": "heuristic",
-      "confidence_score": "0.350"
-    },
-    {
-      "product_id": 23,
-      "competitor_name": "istikbal",
-      "competitor_sku": "22AYY3150SCTE",
-      "product_name": "Alya Sabit Masa",
-      "parsed_by": "heuristic",
-      "confidence_score": "0.350"
-    },
-    {
-      "product_id": 22,
-      "competitor_name": "istikbal",
-      "competitor_sku": "22MVE3155EFBD",
-      "product_name": "Marven Açılır Masa",
+      "competitor_sku": "22DST3155PDPD",
+      "product_name": "Destina Açılır Masa",
       "parsed_by": "heuristic",
       "confidence_score": "0.250"
     },
     {
-      "product_id": 21,
+      "product_id": 440,
       "competitor_name": "istikbal",
-      "competitor_sku": "22CNS3150FCFC",
-      "product_name": "Cansas Sabit Masa",
+      "competitor_sku": "22DST2425CVAQ",
+      "product_name": "Destina Konsol Aynası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 2,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22DST3150PDPD",
+      "product_name": "Destina Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 438,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22DST2550CVPD",
+      "product_name": "Destina Konsol",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 20,
+      "product_id": 437,
       "competitor_name": "istikbal",
-      "competitor_sku": "22LAT3149LBCO",
-      "product_name": "Lavita Mini Sabit Masa",
+      "competitor_sku": "58DST8015CVPD",
+      "product_name": "Destina Yemek Odası Takımı",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 19,
-      "competitor_name": "istikbal",
-      "competitor_sku": "22LAT3150LBCO",
-      "product_name": "Lavita Sabit Masa",
+      "product_id": 500,
+      "competitor_name": "bellona",
+      "competitor_sku": "boheems-konsol",
+      "product_name": "Boheems Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 499,
+      "competitor_name": "bellona",
+      "competitor_sku": "larissa-konsol",
+      "product_name": "Larissa Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 497,
+      "competitor_name": "bellona",
+      "competitor_sku": "andera-konsol",
+      "product_name": "Andera Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 494,
+      "competitor_name": "bellona",
+      "competitor_sku": "havana-konsol",
+      "product_name": "Havana Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 493,
+      "competitor_name": "bellona",
+      "competitor_sku": "veronica-konsol",
+      "product_name": "Veronica Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 491,
+      "competitor_name": "bellona",
+      "competitor_sku": "napoli-konsol",
+      "product_name": "Napoli Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 489,
+      "competitor_name": "bellona",
+      "competitor_sku": "nadia-konsol",
+      "product_name": "Nadia Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 487,
+      "competitor_name": "bellona",
+      "competitor_sku": "mona-konsol",
+      "product_name": "Mona Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 485,
+      "competitor_name": "bellona",
+      "competitor_sku": "montella-konsol",
+      "product_name": "Montella Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 483,
+      "competitor_name": "bellona",
+      "competitor_sku": "estella-konsol",
+      "product_name": "Estella Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 481,
+      "competitor_name": "bellona",
+      "competitor_sku": "arte-sandalye-6135-2-li-1",
+      "product_name": "Arte Sandalye 6135 2 li",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 18,
-      "competitor_name": "istikbal",
-      "competitor_sku": "22LAT3155LBCO",
-      "product_name": "Lavita Açılır Masa",
+      "product_id": 479,
+      "competitor_name": "bellona",
+      "competitor_sku": "arte-sandalye-6135-2-li",
+      "product_name": "Arte Sandalye 6135 2 li",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 17,
+      "product_id": 478,
+      "competitor_name": "bellona",
+      "competitor_sku": "montego-sandalye-6166-2-li",
+      "product_name": "Montego Sandalye 6166 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 477,
+      "competitor_name": "bellona",
+      "competitor_sku": "norm-sandalye-6312-2-li",
+      "product_name": "Norm Sandalye 6312 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 476,
+      "competitor_name": "bellona",
+      "competitor_sku": "mona-genc-odasi-sandalyesi",
+      "product_name": "Mona Genç Odası Sandalyesi",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 474,
+      "competitor_name": "bellona",
+      "competitor_sku": "nicoly-sandalye-6314-2-li",
+      "product_name": "Nicoly Sandalye 6314 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 473,
+      "competitor_name": "bellona",
+      "competitor_sku": "sophia-sandalye-6304-2-li",
+      "product_name": "Sophia Sandalye 6304 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 472,
+      "competitor_name": "bellona",
+      "competitor_sku": "nicoly-bench",
+      "product_name": "Nicoly Bench",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 471,
+      "competitor_name": "bellona",
+      "competitor_sku": "sophia-bench",
+      "product_name": "Sophia Bench",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 470,
+      "competitor_name": "bellona",
+      "competitor_sku": "leny-sandalye-6168-2-li",
+      "product_name": "Leny Sandalye 6168 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 469,
+      "competitor_name": "bellona",
+      "competitor_sku": "valencia-sandalye-6323-2-li",
+      "product_name": "Valencia Sandalye 6323 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 468,
+      "competitor_name": "bellona",
+      "competitor_sku": "valencia-sandalye-6324-2-li",
+      "product_name": "Valencia Sandalye 6324 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 467,
+      "competitor_name": "bellona",
+      "competitor_sku": "larissa-sandalye-6331-2-li",
+      "product_name": "Larissa Sandalye 6331 2 li",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 579,
+      "competitor_name": "bellona",
+      "competitor_sku": "larissa-yemek-odasi-takimi",
+      "product_name": "Larissa Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 578,
+      "competitor_name": "bellona",
+      "competitor_sku": "napoli-yemek-odasi-takimi",
+      "product_name": "Napoli Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 577,
+      "competitor_name": "bellona",
+      "competitor_sku": "montego-yemek-odasi-takimi",
+      "product_name": "Montego Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 576,
+      "competitor_name": "bellona",
+      "competitor_sku": "leny-yemek-odasi-takimi",
+      "product_name": "Leny Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 575,
+      "competitor_name": "bellona",
+      "competitor_sku": "valencia-yemek-odasi-takimi",
+      "product_name": "Valencia Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 574,
+      "competitor_name": "bellona",
+      "competitor_sku": "andera-yemek-odasi-takimi",
+      "product_name": "Andera Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 573,
+      "competitor_name": "bellona",
+      "competitor_sku": "veronica-yemek-odasi-takimi",
+      "product_name": "Veronica Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 572,
+      "competitor_name": "bellona",
+      "competitor_sku": "montella-yemek-odasi-takimi",
+      "product_name": "Montella Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 571,
+      "competitor_name": "bellona",
+      "competitor_sku": "estella-yemek-odasi-takimi",
+      "product_name": "Estella Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 570,
+      "competitor_name": "bellona",
+      "competitor_sku": "caldera-yemek-odasi-takimi",
+      "product_name": "Caldera Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 569,
+      "competitor_name": "bellona",
+      "competitor_sku": "boheems-yemek-odasi-takimi",
+      "product_name": "Boheems Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 568,
+      "competitor_name": "bellona",
+      "competitor_sku": "nadia-yemek-odasi-takimi",
+      "product_name": "Nadia Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 567,
+      "competitor_name": "bellona",
+      "competitor_sku": "majer-yemek-odasi-takimi",
+      "product_name": "Majer Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 566,
+      "competitor_name": "bellona",
+      "competitor_sku": "valenty-yemek-odasi-takimi",
+      "product_name": "Valenty Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 565,
+      "competitor_name": "bellona",
+      "competitor_sku": "rozy-bohem-yemek-odasi-takimi",
+      "product_name": "Rozy Bohem Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 564,
+      "competitor_name": "bellona",
+      "competitor_sku": "havana-yemek-odasi-takimi",
+      "product_name": "Havana Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 563,
+      "competitor_name": "bellona",
+      "competitor_sku": "mona-yemek-odasi-takimi",
+      "product_name": "Mona Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 539,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/legna-sandalye-sonil-krem-3120026972",
+      "product_name": "LEGNA Sandalye Fitilli Örme Kadife +9 +6",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 538,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-konsol-sifonyer-aynasi-3200425526",
+      "product_name": "KALIA Konsol - Şifonyer Ayna",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 537,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-ayakucu-puf-bank-3120026206",
+      "product_name": "KALIA Ayakucu Puf - Bank Melanj Şönil Dokuma",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 536,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-konsol-3200425524",
+      "product_name": "KALIA Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 535,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-vitrin-3200425518",
+      "product_name": "KALIA Vitrin",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 534,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/vermont-vitrin-3200422072",
+      "product_name": "VERMONT Vitrin",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 533,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/trento-ayakucu-puf-bank-3120022399",
+      "product_name": "TRENTO Ayakucu Puf - Bank",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 532,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-sandalye-sonil-gri-3120026059",
+      "product_name": "KALIA Sandalye Melanj Şönil Dokuma +1",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 531,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-sandalye-kadife-turuncu-3120026058",
+      "product_name": "KALIA Sandalye Melanj Şönil Dokuma +1",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 530,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/bend-ayakucu-puf-bank-3120025279",
+      "product_name": "BEND Ayakucu Puf - Bank Kadife Dokulu",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 529,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/calista-ayakucu-puf-bank-3120025300",
+      "product_name": "CALISTA Ayakucu Puf - Bank Şönil Dokuma",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 528,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/nita-ayakucu-puf-bank-3120025303",
+      "product_name": "NITA Ayakucu Puf - Bank Örme Kumaş",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 37,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-acilir-yemek-masasi-3200425545",
+      "product_name": "KALIA Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 526,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-sabit-yemek-masasi-3200425522",
+      "product_name": "KALIA Sabit Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 36,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-acilir-yemek-masasi-3200425523",
+      "product_name": "KALIA Açılır Yemek Masası - Yuvarlak",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 524,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/kalia-yemek-odasi-takimi",
+      "product_name": "KALIA Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 523,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/legna-sabit-yemek-masasi-180x100-cm-3200426555",
+      "product_name": "LEGNA Sabit Yemek Masası - 180x100 cm",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 522,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/legna-sabit-yemek-masasi-mermer-desenli-180x100-cm-3200426554",
+      "product_name": "LEGNA Sabit Yemek Masası - Mermer Desenli - 180x100 cm",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 521,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/vermont-ayakucu-puf-bank-3120025759",
+      "product_name": "VERMONT Ayakucu Puf - Bank",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 520,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-konsol-sifonyer-aynasi-3200427163",
+      "product_name": "MARLIN Konsol Sıfonyer Ayna",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 35,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-acilir-yemek-masasi-3200427155",
+      "product_name": "MARLIN Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 518,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-acilir-yemek-masasi-3200427156",
+      "product_name": "MARLIN Yuvarlak Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 517,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-sabit-yemek-masasi-3200427137",
+      "product_name": "MARLIN Sabit Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 516,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-sandalye-3120026161",
+      "product_name": "CALMERA Noralis Bohem Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 515,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-konsol-3200425565",
+      "product_name": "NORALIS Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 514,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-konsol-sifonyer-aynasi-3200425566",
+      "product_name": "NORALIS Konsol - Şifonyer Aynası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 513,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-sabit-yemek-masasi-3200425567",
+      "product_name": "NORALIS Sabit Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 512,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-acilir-yemek-masasi-3200425568",
+      "product_name": "NORALIS Yuvarlak Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 34,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-acilir-yemek-masasi-3200425569",
+      "product_name": "NORALIS Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 510,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-vitrin-genis-3200425576",
+      "product_name": "NORALIS Vitrin",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 509,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-ayakucu-puf-bank-desenli-3120026207",
+      "product_name": "NORALIS Ayakucu Puf - Bank",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 508,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-sandalye-3120026815",
+      "product_name": "NORALIS Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 507,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/noralis-yemek-odasi-takimi",
+      "product_name": "NORALIS Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 506,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-konsol-3200426643",
+      "product_name": "LINTHE Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 33,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-acilir-yemek-masasi-3200426812",
+      "product_name": "LINTHE Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 32,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-acilir-yemek-masasi-3200426824",
+      "product_name": "LINTHE Açılır Yuvarlak Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 503,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-konsol-sifonyer-aynasi-3200426819",
+      "product_name": "LINTHE Konsol - Şifonyer Ayna",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 502,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-sandalye-orme-kumas-gri-3120027373",
+      "product_name": "LINTHE Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 501,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-sandalye-orme-kumas-gri-3120027374",
+      "product_name": "LINTHE Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 498,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-ayakucu-puf-bank-dokuma-desen-mavi-desen-3120027370",
+      "product_name": "LINTHE Ayakucu Puf - Bank",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 496,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-ayakucu-puf-bank-orme-kumas-gri-3120027371",
+      "product_name": "LINTHE Ayakucu Puf - Bank",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 495,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/linthe-yemek-odasi-takimi",
+      "product_name": "LINTHE Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 492,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-sandalye-tuylu-3120027527",
+      "product_name": "MARLIN Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 490,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-sandalye-tuylu-sonil-desen-3120027528",
+      "product_name": "MARLIN Sandalye",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 488,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-ayakucu-puf-bank-tuylu-krem-3120027535",
+      "product_name": "MARLIN Ayakucu Puf - Bank",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 486,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-konsol-3200427097",
+      "product_name": "MARLIN Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 484,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/marlin-yemek-odasi-takimi",
+      "product_name": "MARLIN Yemek Odası Takımı",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 482,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/lutie-konsol-3200428292",
+      "product_name": "LUTIE Mini Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 480,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/lutie-konsol-3200428293",
+      "product_name": "LUTIE Mini Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 38,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/moderna-acilir-yemek-masasi-3200425337",
+      "product_name": "MODERNA\nAçılır Yemek Masası\n24.634,46 TL\n22.171,01 TL\nSepette %10 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 39,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/calmera-acilir-yemek-masasi-3200424546",
+      "product_name": "CALMERA\nAçılır Yemek Masası\n22.789,02 TL\n19.370,67 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 40,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/nita-acilir-yemek-masasi-3200421044",
+      "product_name": "NITA\nAçılır Yemek Masası\n24.845,04 TL\n21.118,28 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 41,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/vermont-acilir-yemek-masasi-3200420986",
+      "product_name": "VERMONT\nAçılır Yemek Masası\n21.470,70 TL\n19.323,63 TL\nSepette %10 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 42,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/calista-acilir-yemek-masasi-90x160-cm-3200421517",
+      "product_name": "CALISTA\nAçılır Yemek Masası - 90x160 cm\n19.134,43 TL\n13.394,10 TL\nSepette %30 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 43,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/legna-acilir-yemek-masasi-3200423622",
+      "product_name": "LEGNA\nAçılır Yemek Masası\n22.059,36 TL\n18.750,46 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 44,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/margo-acilir-yemek-masasi-3200419742",
+      "product_name": "MARGO\nAçılır Yemek Masası\n22.598,94 TL",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 45,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/bend-acilir-yemek-masasi-3200418737",
+      "product_name": "BEND\nAçılır Yemek Masası\n25.100,39 TL\n21.335,33 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 46,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/trento-acilir-yemek-masasi-160-cm-3200418058",
+      "product_name": "TRENTO\nAçılır Yemek Masası - 160 cm\n22.549,51 TL\n18.039,61 TL\nSepette %20 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 47,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/solid-acilir-yemek-masasi-eko-160-cm-3200398863",
+      "product_name": "SOLID\nAçılır Yemek Masası - Eko - 160 cm\n19.864,10 TL\n16.884,49 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 48,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/solid-acilir-yemek-masasi-160-cm-3200398862",
+      "product_name": "SOLID\nAçılır Yemek Masası - 160 cm\n25.200,93 TL\n21.420,79 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 475,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/lutie-konsol-3200428294",
+      "product_name": "LUTIE Mini Konsol",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 49,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/milena-acilir-yemek-masasi-160-cm-3200394924",
+      "product_name": "MILENA\nAçılır Yemek Masası - 160 cm\n23.231,15 TL\n19.746,48 TL\nSepette %15 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 50,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/piero-acilir-yemek-masasi-3200394915",
+      "product_name": "PIERO\nAçılır Yemek Masası\n24.598,26 TL\n19.678,61 TL\nSepette %20 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 51,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/toscana-acilir-yemek-masasi-160-cm-3200394174",
+      "product_name": "TOSCANA\nAçılır Yemek Masası - 160 cm\n25.989,84 TL\n23.390,86 TL\nSepette %10 İndirim + Her 89.900 TL'lik Alışverişte 5.000 TL İndirim",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 52,
+      "competitor_name": "dogtas",
+      "competitor_sku": "https://www.dogtas.com/arch-acilir-yemek-masasi-160-cm-3200415648",
+      "product_name": "ARCH\nAçılır Yemek Masası - 160 cm\n8.562,21 TL",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 266,
+      "competitor_name": "bellona",
+      "competitor_sku": "valenty-acilir-yemek-masasi",
+      "product_name": "Valenty Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 267,
+      "competitor_name": "bellona",
+      "competitor_sku": "valenty-acilir-mini-yemek-masasi",
+      "product_name": "Valenty Açılır Mini Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 268,
+      "competitor_name": "bellona",
+      "competitor_sku": "rozy-bohem-acilir-yemek-masasi",
+      "product_name": "Rozy Bohem Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 269,
+      "competitor_name": "bellona",
+      "competitor_sku": "majer-acilir-mini-yemek-masasi",
+      "product_name": "Majer Açılır Mini Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 270,
+      "competitor_name": "bellona",
+      "competitor_sku": "boheems-sabit-yemek-masasi",
+      "product_name": "Boheems Sabit Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 271,
+      "competitor_name": "bellona",
+      "competitor_sku": "boheems-acilir-alternatif-yemek-masasi",
+      "product_name": "Boheems Açılır Alternatif Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 272,
+      "competitor_name": "bellona",
+      "competitor_sku": "norm-acilir-mutfak-masasi",
+      "product_name": "Norm Açılır Mutfak Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 273,
+      "competitor_name": "bellona",
+      "competitor_sku": "arte-acilir-mutfak-masasi-2",
+      "product_name": "Arte Açılır Mutfak Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 274,
+      "competitor_name": "bellona",
+      "competitor_sku": "arte-mutfak-masasi-siyah",
+      "product_name": "Arte Mutfak Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 275,
+      "competitor_name": "bellona",
+      "competitor_sku": "arte-acilir-mutfak-masasi-1",
+      "product_name": "Arte Açılır Mutfak Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 276,
+      "competitor_name": "bellona",
+      "competitor_sku": "nicoly-acilir-mutfak-masasi",
+      "product_name": "Nicoly Açılır Mutfak Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 277,
+      "competitor_name": "bellona",
+      "competitor_sku": "caldera-acilir-yemek-masasi",
+      "product_name": "Caldera Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 278,
+      "competitor_name": "bellona",
+      "competitor_sku": "nora-acilir-yemek-masasi",
+      "product_name": "Nora Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 279,
+      "competitor_name": "bellona",
+      "competitor_sku": "boheems-acilir-yemek-masasi",
+      "product_name": "Boheems Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 280,
+      "competitor_name": "bellona",
+      "competitor_sku": "estella-acilir-yemek-masasi",
+      "product_name": "Estella Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 281,
+      "competitor_name": "bellona",
+      "competitor_sku": "mona-yemek-masasi",
+      "product_name": "Mona Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 282,
+      "competitor_name": "bellona",
+      "competitor_sku": "mona-acilir-yemek-masasi",
+      "product_name": "Mona Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 283,
+      "competitor_name": "bellona",
+      "competitor_sku": "bistro-acilir-yemek-masasi",
+      "product_name": "Bistro Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 284,
+      "competitor_name": "bellona",
+      "competitor_sku": "montella-acilir-yemek-masasi",
+      "product_name": "Montella Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 285,
+      "competitor_name": "bellona",
+      "competitor_sku": "montella-yemek-masasi",
+      "product_name": "Montella Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 286,
+      "competitor_name": "bellona",
+      "competitor_sku": "liva-acilir-yemek-masasi",
+      "product_name": "Liva Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 287,
+      "competitor_name": "bellona",
+      "competitor_sku": "nadia-acilir-yemek-masasi",
+      "product_name": "Nadia Açılır Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 288,
+      "competitor_name": "bellona",
+      "competitor_sku": "nadia-acilir-mini-yemek-masasi",
+      "product_name": "Nadia Açılır Mini Yemek Masası",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 9,
       "competitor_name": "istikbal",
-      "competitor_sku": "22BOR3155DXDX",
-      "product_name": "Borneo Açılır Masa",
+      "competitor_sku": "22TRV3150DWKM",
+      "product_name": "Truva Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 10,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22FNA3155ZXGE",
+      "product_name": "Fiona Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 11,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22FNA3150ZXZX",
+      "product_name": "Fiona Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 12,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BRL3150ODOP",
+      "product_name": "Briella Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 13,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BRL3155BSOD",
+      "product_name": "Briella Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.550"
+    },
+    {
+      "product_id": 14,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22BRL3157ODOD",
+      "product_name": "Briella Alternatif Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 15,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AEK3150PNPN",
+      "product_name": "Alexa Sabit Masa",
       "parsed_by": "heuristic",
       "confidence_score": "0.450"
     },
@@ -132,36 +1332,124 @@
       "confidence_score": "0.250"
     },
     {
-      "product_id": 15,
+      "product_id": 17,
       "competitor_name": "istikbal",
-      "competitor_sku": "22AEK3150PNPN",
-      "product_name": "Alexa Sabit Masa",
+      "competitor_sku": "22BOR3155DXDX",
+      "product_name": "Borneo Açılır Masa",
       "parsed_by": "heuristic",
       "confidence_score": "0.450"
     },
     {
-      "product_id": 14,
+      "product_id": 18,
       "competitor_name": "istikbal",
-      "competitor_sku": "22BRL3157ODOD",
-      "product_name": "Briella Alternatif Açılır Masa",
+      "competitor_sku": "22LAT3155LBCO",
+      "product_name": "Lavita Açılır Masa",
       "parsed_by": "heuristic",
       "confidence_score": "0.350"
     },
     {
-      "product_id": 13,
+      "product_id": 19,
       "competitor_name": "istikbal",
-      "competitor_sku": "22BRL3155BSOD",
-      "product_name": "Briella Açılır Masa",
+      "competitor_sku": "22LAT3150LBCO",
+      "product_name": "Lavita Sabit Masa",
       "parsed_by": "heuristic",
-      "confidence_score": "0.550"
+      "confidence_score": "0.350"
     },
     {
-      "product_id": 12,
+      "product_id": 20,
       "competitor_name": "istikbal",
-      "competitor_sku": "22BRL3150ODOP",
-      "product_name": "Briella Sabit Masa",
+      "competitor_sku": "22LAT3149LBCO",
+      "product_name": "Lavita Mini Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 21,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22CNS3150FCFC",
+      "product_name": "Cansas Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 22,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22MVE3155EFBD",
+      "product_name": "Marven Açılır Masa",
       "parsed_by": "heuristic",
       "confidence_score": "0.250"
+    },
+    {
+      "product_id": 23,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYY3150SCTE",
+      "product_name": "Alya Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 24,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22VSK3155TEBO",
+      "product_name": "Vista Açılır Masa Krem",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 25,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22VSK3151TEBO",
+      "product_name": "Vista Alternatif Sabit Masa Krem",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 26,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYS3150ZIZI",
+      "product_name": "Aysa Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 27,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYS3155ZIZI",
+      "product_name": "Aysa Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 28,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYY3156SCGA",
+      "product_name": "Alya Mini Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.350"
+    },
+    {
+      "product_id": 29,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22AYY3155SCGA",
+      "product_name": "Alya Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
+    },
+    {
+      "product_id": 30,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22MTR3150MUNC",
+      "product_name": "Mitra Sabit Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.250"
+    },
+    {
+      "product_id": 31,
+      "competitor_name": "istikbal",
+      "competitor_sku": "22MTR3156MUNC",
+      "product_name": "Mitra Mini Açılır Masa",
+      "parsed_by": "heuristic",
+      "confidence_score": "0.450"
     }
   ]
 }

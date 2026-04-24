@@ -1,6 +1,8 @@
 {
   "brand": "dogtas",
-  "category_name": "Acilir Masa",
-  "status": "no_snapshots",
-  "generated_at": "2026-04-11T12:41:23.030711+00:00"
+  "category_name": "Yemek Odasi",
+  "status": "no_previous_snapshot",
+  "generated_at": "2026-04-14T10:56:57.150883+00:00",
+  "current_snapshot_date": "2026-04-14",
+  "current_count": 50
 }

@@ -1,201 +1,30 @@
 {
-  "generated_at": "2026-04-11T12:41:23.031093+00:00",
-  "category_name": "Acilir Masa",
+  "generated_at": "2026-04-14T10:56:57.151339+00:00",
+  "category_name": "Yemek Odasi",
   "brands": {
     "istikbal": {
       "brand": "istikbal",
-      "category_name": "Acilir Masa",
+      "category_name": "Yemek Odasi",
       "status": "no_previous_snapshot",
-      "generated_at": "2026-04-11T12:41:23.027872+00:00",
-      "current_snapshot_date": "2026-04-11",
-      "current_count": 30
+      "generated_at": "2026-04-14T10:56:57.145938+00:00",
+      "current_snapshot_date": "2026-04-14",
+      "current_count": 18
     },
     "bellona": {
       "brand": "bellona",
-      "category_name": "Acilir Masa",
-      "status": "ok",
-      "generated_at": "2026-04-11T12:41:23.029208+00:00",
-      "previous_snapshot_date": "2026-04-04",
-      "current_snapshot_date": "2026-04-11",
-      "summary": {
-        "previous_count": 22,
-        "current_count": 23,
-        "new_count": 1,
-        "removed_count": 0,
-        "unchanged_count": 22
-      },
-      "new_products": [
-        {
-          "product_url": "https://www.bellona.com.tr/urun/nadia-acilir-mini-yemek-masasi",
-          "product_name": "Nadia Açılır Mini Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "nadia-acilir-mini-yemek-masasi",
-          "competitor_name": "bellona"
-        }
-      ],
-      "removed_products": [],
-      "unchanged_products": [
-        {
-          "product_url": "https://www.bellona.com.tr/urun/arte-acilir-mutfak-masasi-1",
-          "product_name": "Arte Açılır Mutfak Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "arte-acilir-mutfak-masasi-1",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/arte-acilir-mutfak-masasi-2",
-          "product_name": "Arte Açılır Mutfak Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "arte-acilir-mutfak-masasi-2",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/arte-mutfak-masasi-siyah",
-          "product_name": "Arte Mutfak Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "arte-mutfak-masasi-siyah",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/bistro-acilir-yemek-masasi",
-          "product_name": "Bistro Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "bistro-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/boheems-acilir-alternatif-yemek-masasi",
-          "product_name": "Boheems Açılır Alternatif Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "boheems-acilir-alternatif-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/boheems-acilir-yemek-masasi",
-          "product_name": "Boheems Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "boheems-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/boheems-sabit-yemek-masasi",
-          "product_name": "Boheems Sabit Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "boheems-sabit-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/caldera-acilir-yemek-masasi",
-          "product_name": "Caldera Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "caldera-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/estella-acilir-yemek-masasi",
-          "product_name": "Estella Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "estella-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/liva-acilir-yemek-masasi",
-          "product_name": "Liva Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "liva-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/majer-acilir-mini-yemek-masasi",
-          "product_name": "Majer Açılır Mini Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "majer-acilir-mini-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/mona-acilir-yemek-masasi",
-          "product_name": "Mona Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "mona-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/mona-yemek-masasi",
-          "product_name": "Mona Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "mona-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/montella-acilir-yemek-masasi",
-          "product_name": "Montella Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "montella-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/montella-yemek-masasi",
-          "product_name": "Montella Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "montella-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/nadia-acilir-yemek-masasi",
-          "product_name": "Nadia Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "nadia-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/nicoly-acilir-mutfak-masasi",
-          "product_name": "Nicoly Açılır Mutfak Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "nicoly-acilir-mutfak-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/nora-acilir-yemek-masasi",
-          "product_name": "Nora Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "nora-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/norm-acilir-mutfak-masasi",
-          "product_name": "Norm Açılır Mutfak Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "norm-acilir-mutfak-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/rozy-bohem-acilir-yemek-masasi",
-          "product_name": "Rozy Bohem Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "rozy-bohem-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/valenty-acilir-mini-yemek-masasi",
-          "product_name": "Valenty Açılır Mini Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "valenty-acilir-mini-yemek-masasi",
-          "competitor_name": "bellona"
-        },
-        {
-          "product_url": "https://www.bellona.com.tr/urun/valenty-acilir-yemek-masasi",
-          "product_name": "Valenty Açılır Yemek Masası",
-          "category_name": "Acilir Masa",
-          "competitor_sku": "valenty-acilir-yemek-masasi",
-          "competitor_name": "bellona"
-        }
-      ]
+      "category_name": "Yemek Odasi",
+      "status": "no_previous_snapshot",
+      "generated_at": "2026-04-14T10:56:57.148928+00:00",
+      "current_snapshot_date": "2026-04-14",
+      "current_count": 40
     },
     "dogtas": {
       "brand": "dogtas",
-      "category_name": "Acilir Masa",
-      "status": "no_snapshots",
-      "generated_at": "2026-04-11T12:41:23.030711+00:00"
+      "category_name": "Yemek Odasi",
+      "status": "no_previous_snapshot",
+      "generated_at": "2026-04-14T10:56:57.150883+00:00",
+      "current_snapshot_date": "2026-04-14",
+      "current_count": 50
     }
   }
 }

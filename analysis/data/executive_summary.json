@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-11T12:44:00.758116+00:00",
+  "generated_at": "2026-04-16T06:23:22.021358+00:00",
   "overview": {
-    "competitor_count": 2,
-    "product_count": 30,
-    "weekly_promotion_count": 1,
+    "competitor_count": 3,
+    "product_count": 185,
+    "weekly_promotion_count": 14,
     "out_of_stock_count": 0
   },
   "price_summary": {
@@ -16,209 +16,221 @@
   "latest_price_changes": [],
   "latest_promotions": [
     {
+      "competitor_name": "bellona",
+      "promotion_type": "campaign_page",
+      "title": "Bellona kampanya sayfasi",
+      "description": null,
+      "promotion_message": null,
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": null
+    },
+    {
+      "competitor_name": "bellona",
+      "promotion_type": "generic_campaign",
+      "title": "Kampanyalar",
+      "description": "Kampanyalar",
+      "promotion_message": "Kampanyalar",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "bellona",
+      "promotion_type": "generic_campaign",
+      "title": "Yeni Yıl Kampanyası",
+      "description": "Yeni Yıl Kampanyası",
+      "promotion_message": "Yeni Yıl Kampanyası",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "rate_discount",
+      "title": "Aile ve Gençlik Fonu kapsamında evlenecek genç çiftlere özel, mevcut indirimlere ek olarak Doğtaş'ta %10 indirim fırsatı",
+      "description": "Aile ve Gençlik Fonu kapsamında evlenecek genç çiftlere özel, mevcut indirimlere ek olarak Doğtaş'ta %10 indirim fırsatı sizi bekliyor! Kampanyadan yararlanmak için en yakın Doğtaş mağazasını ziyaret edebilirsiniz. Detaylı bilgi için: www.ailegenclikfonu.aile.gov.tr",
+      "promotion_message": "Aile ve Gençlik Fonu kapsamında evlenecek genç çiftlere özel, mevcut indirimlere ek olarak Doğtaş'ta %10 indirim fırsatı sizi bekliyor! Kampanyadan yararlanmak için en yakın Doğtaş mağazasını ziyaret edebilirsiniz. Detaylı bilgi için: www.ailegenclikfonu.aile.gov.tr",
+      "discount_value": 10.0,
+      "discount_unit": "percent",
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "campaign_page",
+      "title": "Dogtas kampanya sayfasi",
+      "description": null,
+      "promotion_message": null,
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": null
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "installment",
+      "title": "Doğtaş’tan yapacağınız alışverişlerde vade farksız 12 taksit imkanı!",
+      "description": "Doğtaş’tan yapacağınız alışverişlerde vade farksız 12 taksit imkanı!",
+      "promotion_message": "Doğtaş’tan yapacağınız alışverişlerde vade farksız 12 taksit imkanı!",
+      "discount_value": 12.0,
+      "discount_unit": "month",
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "generic_campaign",
+      "title": "E-posta adresinizi girerek en yeni ürünler, kampanyalar ve avantajlardan haberdar olun.",
+      "description": "E-posta adresinizi girerek en yeni ürünler, kampanyalar ve avantajlardan haberdar olun.",
+      "promotion_message": "E-posta adresinizi girerek en yeni ürünler, kampanyalar ve avantajlardan haberdar olun.",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "generic_campaign",
+      "title": "KAMPANYALAR",
+      "description": "KAMPANYALAR",
+      "promotion_message": "KAMPANYALAR",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "installment",
+      "title": "Peşin fiyatına 15 ay taksit fırsatı",
+      "description": "Peşin fiyatına 15 ay taksit fırsatı",
+      "promotion_message": "Peşin fiyatına 15 ay taksit fırsatı",
+      "discount_value": 15.0,
+      "discount_unit": "month",
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "installment",
+      "title": "Peşin fiyatına 9 taksit fırsatı",
+      "description": "Peşin fiyatına 9 taksit fırsatı",
+      "promotion_message": "Peşin fiyatına 9 taksit fırsatı",
+      "discount_value": 9.0,
+      "discount_unit": "month",
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "generic_campaign",
+      "title": "TOM Bank Hadi'nin Hesaplı Kampanyası",
+      "description": "TOM Bank Hadi'nin Hesaplı Kampanyası",
+      "promotion_message": "TOM Bank Hadi'nin Hesaplı Kampanyası",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
+    },
+    {
+      "competitor_name": "dogtas",
+      "promotion_type": "generic_campaign",
+      "title": "Vade farksız 8 aya varan taksit fırsatı",
+      "description": "Vade farksız 8 aya varan taksit fırsatı",
+      "promotion_message": "Vade farksız 8 aya varan taksit fırsatı",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
+    },
+    {
       "competitor_name": "istikbal",
-      "promotion_count": 1
+      "promotion_type": "campaign_page",
+      "title": "Istikbal kampanya sayfasi",
+      "description": null,
+      "promotion_message": null,
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": null
+    },
+    {
+      "competitor_name": "istikbal",
+      "promotion_type": "generic_campaign",
+      "title": "Kampanyalar",
+      "description": "Kampanyalar",
+      "promotion_message": "Kampanyalar",
+      "discount_value": null,
+      "discount_unit": null,
+      "campaign_scope": "general"
     }
   ],
+  "promotion_summary": {
+    "brands": [
+      {
+        "competitor_name": "dogtas",
+        "promotion_count": 6,
+        "basket_discount_count": 0,
+        "rate_discount_count": 1,
+        "installment_count": 3,
+        "amount_discount_count": 0,
+        "top_discount_value": 15.0,
+        "top_discount_unit": "month",
+        "sample_message": "Aile ve Gençlik Fonu kapsamında evlenecek genç çiftlere özel, mevcut indirimlere ek olarak Doğtaş'ta %10 indirim fırsatı sizi bekliyor! Kampanyadan yararlanmak için en yakın Doğtaş mağazasını ziyaret edebilirsiniz. Detaylı bilgi için: www.ailegenclikfonu.aile.gov.tr"
+      },
+      {
+        "competitor_name": "bellona",
+        "promotion_count": 1,
+        "basket_discount_count": 0,
+        "rate_discount_count": 0,
+        "installment_count": 0,
+        "amount_discount_count": 0,
+        "top_discount_value": null,
+        "top_discount_unit": null,
+        "sample_message": "Yeni Yıl Kampanyası"
+      }
+    ],
+    "top_campaign_type": "generic_campaign",
+    "sample_messages": [
+      "Yeni Yıl Kampanyası",
+      "Aile ve Gençlik Fonu kapsamında evlenecek genç çiftlere özel, mevcut indirimlere ek olarak Doğtaş'ta %10 indirim fırsatı sizi bekliyor! Kampanyadan yararlanmak için en yakın Doğtaş mağazasını ziyaret edebilirsiniz. Detaylı bilgi için: www.ailegenclikfonu.aile.gov.tr",
+      "Doğtaş’tan yapacağınız alışverişlerde vade farksız 12 taksit imkanı!",
+      "Peşin fiyatına 15 ay taksit fırsatı",
+      "Peşin fiyatına 9 taksit fırsatı"
+    ]
+  },
+  "ai_insights": {
+    "campaign_insight": "Rakipler haftalık 14 promosyonla aktif. Doğtaş, 6 promosyonla öne çıkıyor; Aile ve Gençlik Fonu'na özel %10 ek indirim ve 15 aya varan taksit seçenekleri sunuyor. Bellona'nın tek 'Yeni Yıl Kampanyası' daha genel bir yaklaşım sergiliyor.",
+    "launch_delist_insight": "Önceki anlık görüntü verisi bulunmadığından, rakiplerin ürün lansman veya katalogdan kaldırma hareketleri hakkında yorum yapılamamaktadır. Mevcut durumda Doğtaş 50, Bellona 40, İstikbal 18 Yemek Odası ürününe sahiptir.",
+    "pricing_insight": "İzlenen dönemde hiçbir rakip üründe fiyat değişikliği tespit edilmemiştir. Bu durum, fiyatların stabil olduğunu veya dinamik fiyatlandırma stratejilerinin uygulanmadığını göstermektedir. Ürün bazında doğrudan indirim yerine kampanya bazlı avantajlar (örn. Doğtaş'ın %10 ek indirimi) öne çıkmaktadır.",
+    "strategic_summary": "Mobilya pazarında promosyonel aktivite yüksek (14 haftalık promosyon), ancak fiyatlar stabil. Doğtaş, hedefli kampanyalar (Aile ve Gençlik Fonu) ve esnek ödeme koşulları (15 ay taksit) ile belirli müşteri segmentlerini çekmeye odaklanıyor. Katalog hareketlerine dair veri eksikliği, ürün portföy stratejileri hakkında derinlemesine analiz yapmayı engelliyor.",
+    "recommended_actions": [
+      "Doğtaş'ın Aile ve Gençlik Fonu kampanyası ve 15 aylık taksit gibi hedefli promosyonlarının etkinliğini yakından izleyin.",
+      "Kendi taksit seçeneklerimizi ve ödeme kolaylıklarımızı rekabetçi hale getirmek için değerlendirin.",
+      "Belirli demografik gruplara yönelik hedefli kampanya fırsatlarını araştırın.",
+      "Ürün lansman ve katalogdan kaldırma verilerini düzenli olarak takip etmek için sistem kurun."
+    ],
+    "generated_by": "llm:gemini-2.5-flash"
+  },
   "stock_summary": [],
   "catalog_diff_summary": {
-    "generated_at": "2026-04-11T12:41:23.031093+00:00",
-    "category_name": "Acilir Masa",
+    "generated_at": "2026-04-14T10:56:57.151339+00:00",
+    "category_name": "Yemek Odasi",
     "brands": {
       "istikbal": {
         "brand": "istikbal",
-        "category_name": "Acilir Masa",
+        "category_name": "Yemek Odasi",
         "status": "no_previous_snapshot",
-        "generated_at": "2026-04-11T12:41:23.027872+00:00",
-        "current_snapshot_date": "2026-04-11",
-        "current_count": 30
+        "generated_at": "2026-04-14T10:56:57.145938+00:00",
+        "current_snapshot_date": "2026-04-14",
+        "current_count": 18
       },
       "bellona": {
         "brand": "bellona",
-        "category_name": "Acilir Masa",
-        "status": "ok",
-        "generated_at": "2026-04-11T12:41:23.029208+00:00",
-        "previous_snapshot_date": "2026-04-04",
-        "current_snapshot_date": "2026-04-11",
-        "summary": {
-          "previous_count": 22,
-          "current_count": 23,
-          "new_count": 1,
-          "removed_count": 0,
-          "unchanged_count": 22
-        },
-        "new_products": [
-          {
-            "product_url": "https://www.bellona.com.tr/urun/nadia-acilir-mini-yemek-masasi",
-            "product_name": "Nadia Açılır Mini Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "nadia-acilir-mini-yemek-masasi",
-            "competitor_name": "bellona"
-          }
-        ],
-        "removed_products": [],
-        "unchanged_products": [
-          {
-            "product_url": "https://www.bellona.com.tr/urun/arte-acilir-mutfak-masasi-1",
-            "product_name": "Arte Açılır Mutfak Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "arte-acilir-mutfak-masasi-1",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/arte-acilir-mutfak-masasi-2",
-            "product_name": "Arte Açılır Mutfak Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "arte-acilir-mutfak-masasi-2",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/arte-mutfak-masasi-siyah",
-            "product_name": "Arte Mutfak Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "arte-mutfak-masasi-siyah",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/bistro-acilir-yemek-masasi",
-            "product_name": "Bistro Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "bistro-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/boheems-acilir-alternatif-yemek-masasi",
-            "product_name": "Boheems Açılır Alternatif Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "boheems-acilir-alternatif-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/boheems-acilir-yemek-masasi",
-            "product_name": "Boheems Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "boheems-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/boheems-sabit-yemek-masasi",
-            "product_name": "Boheems Sabit Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "boheems-sabit-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/caldera-acilir-yemek-masasi",
-            "product_name": "Caldera Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "caldera-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/estella-acilir-yemek-masasi",
-            "product_name": "Estella Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "estella-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/liva-acilir-yemek-masasi",
-            "product_name": "Liva Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "liva-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/majer-acilir-mini-yemek-masasi",
-            "product_name": "Majer Açılır Mini Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "majer-acilir-mini-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/mona-acilir-yemek-masasi",
-            "product_name": "Mona Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "mona-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/mona-yemek-masasi",
-            "product_name": "Mona Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "mona-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/montella-acilir-yemek-masasi",
-            "product_name": "Montella Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "montella-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/montella-yemek-masasi",
-            "product_name": "Montella Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "montella-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/nadia-acilir-yemek-masasi",
-            "product_name": "Nadia Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "nadia-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/nicoly-acilir-mutfak-masasi",
-            "product_name": "Nicoly Açılır Mutfak Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "nicoly-acilir-mutfak-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/nora-acilir-yemek-masasi",
-            "product_name": "Nora Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "nora-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/norm-acilir-mutfak-masasi",
-            "product_name": "Norm Açılır Mutfak Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "norm-acilir-mutfak-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/rozy-bohem-acilir-yemek-masasi",
-            "product_name": "Rozy Bohem Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "rozy-bohem-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/valenty-acilir-mini-yemek-masasi",
-            "product_name": "Valenty Açılır Mini Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "valenty-acilir-mini-yemek-masasi",
-            "competitor_name": "bellona"
-          },
-          {
-            "product_url": "https://www.bellona.com.tr/urun/valenty-acilir-yemek-masasi",
-            "product_name": "Valenty Açılır Yemek Masası",
-            "category_name": "Acilir Masa",
-            "competitor_sku": "valenty-acilir-yemek-masasi",
-            "competitor_name": "bellona"
-          }
-        ]
+        "category_name": "Yemek Odasi",
+        "status": "no_previous_snapshot",
+        "generated_at": "2026-04-14T10:56:57.148928+00:00",
+        "current_snapshot_date": "2026-04-14",
+        "current_count": 40
       },
       "dogtas": {
         "brand": "dogtas",
-        "category_name": "Acilir Masa",
-        "status": "no_snapshots",
-        "generated_at": "2026-04-11T12:41:23.030711+00:00"
+        "category_name": "Yemek Odasi",
+        "status": "no_previous_snapshot",
+        "generated_at": "2026-04-14T10:56:57.150883+00:00",
+        "current_snapshot_date": "2026-04-14",
+        "current_count": 50
       }
     }
   }

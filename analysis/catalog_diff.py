@@ -44,7 +44,7 @@ def build_catalog_diff(previous_items: list[dict[str, Any]], current_items: list
     }
 
 
-def analyze_brand_catalog_diff(brand: str, category_name: str = "Acilir Masa") -> dict[str, Any]:
+def analyze_brand_catalog_diff(brand: str, category_name: str = "Yemek Odasi") -> dict[str, Any]:
     with session_scope() as session:
         repo = CatalogRepository(session)
         snapshot_pair = repo.get_latest_snapshot_pair(brand, category_name=category_name)
@@ -99,7 +99,7 @@ def analyze_brand_catalog_diff(brand: str, category_name: str = "Acilir Masa") -
     return result
 
 
-def analyze_all_catalog_diffs(category_name: str = "Acilir Masa") -> dict[str, Any]:
+def analyze_all_catalog_diffs(category_name: str = "Yemek Odasi") -> dict[str, Any]:
     brands = ("istikbal", "bellona", "dogtas")
     results = {brand: analyze_brand_catalog_diff(brand, category_name=category_name) for brand in brands}
     payload = {

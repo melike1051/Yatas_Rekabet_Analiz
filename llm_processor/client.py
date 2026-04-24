@@ -20,10 +20,10 @@ def _normalize_base_url(base_url: str) -> str:
     return base_url.rstrip("/")
 
 
-def call_openai_compatible(prompt: str) -> str:
+def call_openai_compatible(prompt: str, model_override: Optional[str] = None) -> str:
     api_key = getenv("LLM_API_KEY", "")
     base_url = getenv("LLM_BASE_URL", "")
-    model = getenv("LLM_MODEL", "")
+    model = model_override or getenv("LLM_MODEL", "")
 
     if not api_key or not base_url or not model:
         raise LLMClientError("LLM_API_KEY, LLM_BASE_URL ve LLM_MODEL birlikte tanimli olmali.")

@@ -1,0 +1,33 @@
+[
+  {
+    "brand": "dogtas",
+    "name_contains": "kalia konsol - şifonyer ayna",
+    "team_name": "KALIA"
+  },
+  {
+    "brand": "dogtas",
+    "name_contains": "marlin ayakucu puf - bank",
+    "team_name": "MARLIN"
+  },
+  {
+    "brand": "dogtas",
+    "name_contains": "kalia sandalye melanj şönil dokuma +1",
+    "team_name": "KALIA"
+  },
+  {
+    "brand": "dogtas",
+    "name_contains": "kalia açılır yemek masası - yuvarlak",
+    "team_name": "KALIA"
+  },
+  {
+    "brand": "bellona",
+    "name_contains": "rozy bohem",
+    "team_name": "Rozy Bohem"
+  },
+  {
+    "competitor_sku": "ornek-sku-degeri",
+    "team_name": "Ornek Takim",
+    "item_type": "Yemek Odasi",
+    "display_order": 7
+  }
+]

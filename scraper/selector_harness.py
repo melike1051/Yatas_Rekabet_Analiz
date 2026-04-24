@@ -33,7 +33,7 @@ async def validate_brand_selectors(
 ) -> dict[str, Any]:
     scraper_cls = get_scraper_classes()[brand]
     config = BRAND_CONFIGS[brand]
-    target_url = url_override or config["openable_table_url"]
+    target_url = url_override or config.get("category_sources", [{"url": config["openable_table_url"]}])[0]["url"]
 
     async with scraper_cls() as scraper:
         page = await scraper.fetch_page(target_url, wait_until=wait_until)

@@ -13,6 +13,7 @@ class ProductPayload(BaseModel):
     product_name: str
     category_name: Optional[str] = None
     product_url: Optional[str] = None
+    image_url: Optional[str] = None
     currency_code: str = "TRY"
     current_price: Optional[Decimal] = None
     original_price: Optional[Decimal] = None

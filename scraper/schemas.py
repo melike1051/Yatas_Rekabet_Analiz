@@ -12,6 +12,7 @@ class ScrapedProduct(BaseModel):
     product_name: str
     category_name: str
     product_url: str
+    image_url: Optional[str] = None
     current_price: Optional[Decimal] = None
     original_price: Optional[Decimal] = None
     discount_rate: Optional[Decimal] = None

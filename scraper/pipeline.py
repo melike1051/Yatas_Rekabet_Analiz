@@ -80,7 +80,7 @@ async def run_catalog_scrape(brand: str, persist_to_db: bool = True) -> list[dic
                 CatalogSnapshotPayload(
                     competitor_name=brand,
                     snapshot_date=datetime.now(timezone.utc),
-                    category_name="Acilir Masa",
+                    category_name="Yemek Odasi",
                     snapshot_payload={"items": catalog},
                 )
             )

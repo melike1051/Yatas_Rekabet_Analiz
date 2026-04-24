@@ -4,8 +4,10 @@ from scraper.utils.normalizers import infer_stock_state, parse_discount_rate, pa
 
 
 def test_parse_price_handles_turkish_format() -> None:
-    assert parse_price("15.990 TL") == Decimal("15990")
+    assert parse_price("15.990 TL") == Decimal("15990.00")
     assert parse_price("12.499,90 TL") == Decimal("12499.90")
+    assert parse_price("19751.00006") == Decimal("19751.00")
+    assert parse_price("18816.99996") == Decimal("18817.00")
 
 
 def test_parse_discount_rate() -> None:

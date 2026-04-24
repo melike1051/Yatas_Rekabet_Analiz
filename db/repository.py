@@ -2,7 +2,7 @@ from contextlib import contextmanager
 from datetime import datetime, timezone
 from typing import Optional
 
-from sqlalchemy import desc, select, update
+from sqlalchemy import String, desc, func, select, update
 from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.orm import Session
 
@@ -48,6 +48,9 @@ class ProductRepository:
 
     def upsert_product(self, payload: ProductPayload) -> int:
         competitor_id = self.competitors.get_or_create_competitor(payload.competitor_name)
+        raw_attributes = dict(payload.raw_attributes or {})
+        if payload.image_url:
+            raw_attributes["image_url"] = payload.image_url
 
         stmt = (
             insert(Product)
@@ -60,7 +63,7 @@ class ProductRepository:
                 currency_code=payload.currency_code,
                 current_price=payload.current_price,
                 in_stock=payload.in_stock,
-                raw_attributes=payload.raw_attributes,
+                raw_attributes=raw_attributes,
             )
             .on_conflict_do_update(
                 index_elements=[Product.competitor_id, Product.competitor_sku],
@@ -71,7 +74,7 @@ class ProductRepository:
                     "currency_code": payload.currency_code,
                     "current_price": payload.current_price,
                     "in_stock": payload.in_stock,
-                    "raw_attributes": payload.raw_attributes,
+                    "raw_attributes": raw_attributes,
                     "updated_at": datetime.now(timezone.utc),
                 },
             )
@@ -159,6 +162,24 @@ class PromotionRepository:
         if payload.product_sku:
             product = self.products.get_product_by_sku(payload.competitor_name, payload.product_sku)
             product_id = product.id if product else None
+
+        normalized_message = (
+            str((payload.raw_payload or {}).get("normalized_message") or payload.description or payload.title or "").strip()
+        )
+        normalized_message_expr = Promotion.raw_payload["normalized_message"].as_string()
+        duplicate_stmt = (
+            select(Promotion)
+            .where(
+                Promotion.competitor_id == competitor_id,
+                Promotion.promotion_type == payload.promotion_type,
+                func.coalesce(normalized_message_expr, Promotion.description, Promotion.title) == normalized_message,
+                Promotion.captured_at >= func.date_trunc("day", func.now()),
+            )
+            .limit(1)
+        )
+        existing = self.session.execute(duplicate_stmt).scalar_one_or_none()
+        if existing:
+            return existing
 
         promotion = Promotion(
             competitor_id=competitor_id,

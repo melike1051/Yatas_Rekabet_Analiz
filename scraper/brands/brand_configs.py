@@ -1,7 +1,12 @@
 BRAND_CONFIGS = {
     "istikbal": {
         "base_url": "https://www.istikbal.com.tr",
-        "openable_table_url": "https://www.istikbal.com.tr/kategori/yemek-masasi",
+        "category_sources": [
+            {
+                "category_name": "Yemek Odasi",
+                "url": "https://www.istikbal.com.tr/kategori/yemek-odasi-takimlari",
+            }
+        ],
         "campaigns_url": "https://www.istikbal.com.tr/kampanyalar",
         "selectors": {
             "product_card": ".showcase",
@@ -16,7 +21,16 @@ BRAND_CONFIGS = {
     },
     "bellona": {
         "base_url": "https://www.bellona.com.tr",
-        "openable_table_url": "https://www.bellona.com.tr/kategori/yemek-masasi",
+        "category_sources": [
+            {
+                "category_name": "Yemek Odasi",
+                "url": "https://www.bellona.com.tr/kategori/yemek-odasi-takimi",
+            },
+            {
+                "category_name": "Yemek Odasi",
+                "url": "https://www.bellona.com.tr/kategori/yemek-odasi?tp=6",
+            }
+        ],
         "campaigns_url": "https://www.bellona.com.tr/kampanyalar",
         "selectors": {
             "product_card": ".product-item",
@@ -31,7 +45,12 @@ BRAND_CONFIGS = {
     },
     "dogtas": {
         "base_url": "https://www.dogtas.com",
-        "openable_table_url": "https://www.dogtas.com/arama?k=acilir%20masa",
+        "category_sources": [
+            {
+                "category_name": "Yemek Odasi",
+                "url": "https://www.dogtas.com/yemek-odasi",
+            }
+        ],
         "campaigns_url": "https://www.dogtas.com/kampanyalar",
         "selectors": {
             "product_card": ".card-product",

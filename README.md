@@ -15,6 +15,8 @@ Bu repository, Yatas icin urun bazli rakip analiz sisteminin temel altyapisini b
 ## Hizli Baslangic
 
 1. `.env.example` dosyasini `.env` olarak kopyalayin ve gerekirse degerleri guncelleyin.
+   - Docker Compose ile ayaga kalkan servisler icin `POSTGRES_HOST=postgres` kullanin.
+   - Uygulamayi container disinda, dogrudan host makinede calistiracaksaniz `POSTGRES_HOST=localhost` olarak guncelleyin.
 2. Docker kuruluysa sistemi baslatin:
 
 ```bash

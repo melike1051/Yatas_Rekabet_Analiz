@@ -31,7 +31,7 @@ services:
     environment: &airflow-env
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__CORE__LOAD_EXAMPLES: "false"
-      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
       AIRFLOW__CORE__FERNET_KEY: ${AIRFLOW_FERNET_KEY}
       AIRFLOW__WEBSERVER__SECRET_KEY: ${AIRFLOW_SECRET_KEY}
@@ -129,6 +129,7 @@ services:
       - .env
     environment:
       STREAMLIT_SERVER_PORT: ${STREAMLIT_PORT:-8501}
+      POSTGRES_HOST: postgres
     ports:
       - "${STREAMLIT_PORT:-8501}:8501"
     volumes:
